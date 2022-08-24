@@ -1,5 +1,12 @@
 # Codeforces Stat Visualization
 
+
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Shouvro/cf-stats/main/output/light_card.svg)
+
 <a href="https://github.com/sudiptob2/cf-stats">
 <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
